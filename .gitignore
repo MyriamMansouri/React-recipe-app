@@ -3,8 +3,8 @@
 
 src/*
 public/*
-build/static/css/*.map
-build/static/js/*.map
+# build/static/css/*.map
+# build/static/js/*.map
 
 # dependencies
 /node_modules
